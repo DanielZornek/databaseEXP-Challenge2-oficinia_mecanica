@@ -1,1 +1,1 @@
-# Desafio de Modelagem de dados Database Expirience - DIO
+# Desafio de Modelagem de dados Database Experience - DIO
